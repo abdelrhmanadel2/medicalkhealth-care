@@ -202,7 +202,7 @@ In our application, we will serve users with the following:
 <img src="https://i.imgur.com/zZEVZFx.jpg" width="250">
 <img src="https://i.imgur.com/Am0Yhdw.jpg" width="250">
  </p>
- 
+<video src="/assets/VID_20220317211347.mp4"></video>
 ## 7. Future Work:
  
  - Add chating to the app.
