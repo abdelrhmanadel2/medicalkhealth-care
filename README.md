@@ -201,8 +201,10 @@ In our application, we will serve users with the following:
 <img src="https://i.imgur.com/xhSIJUK.jpg" width="250">
 <img src="https://i.imgur.com/zZEVZFx.jpg" width="250">
 <img src="https://i.imgur.com/Am0Yhdw.jpg" width="250">
-<img src="/assets/1.png" >
-<video src="/assets/VID_20220317211347.mp4">
+
+https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4
+
+
  </p>
 
 ## 7. Future Work:
