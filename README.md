@@ -198,11 +198,10 @@ In our application, we will serve users with the following:
 ## 6. User Interface Screens:
 
 <p float="left">
-<img src="https://i.imgur.com/xhSIJUK.jpg" width="250">
-<img src="https://i.imgur.com/zZEVZFx.jpg" width="250">
-<img src="https://i.imgur.com/Am0Yhdw.jpg" width="250">
 
-https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4
+
+
+<video src="https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4" width=260/>
 
 
  </p>
